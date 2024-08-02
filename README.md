@@ -9,3 +9,4 @@ Git 연습해보기 By fork
 
 main branch 작업
 
+main 이랑 develop를 다르게 할거에요
