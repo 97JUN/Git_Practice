@@ -22,3 +22,12 @@ fetch 된거야 만거야
 
 
 여기는 다시 develop 이다 오바
+
+
+
+
+develop rebase Test2
+
+02:39
+02:40
+02:41
